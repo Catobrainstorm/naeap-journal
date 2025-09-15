@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Filter, Grid, List, Calendar, BookOpen, AlertCircle } from 'lucide-react';
+import { Search, Grid, List, Calendar, BookOpen, AlertCircle } from 'lucide-react';
 import { collection, getDocs, query, orderBy, limit, startAfter, DocumentSnapshot } from 'firebase/firestore';
 import { db } from '@/lib/firebase'; // Adjust path to your Firebase config
 import JournalCard from '@/components/JournalCard';

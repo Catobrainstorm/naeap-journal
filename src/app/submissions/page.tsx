@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Upload, FileText, CheckCircle, Clock, Users, Award, Send, Download, Info } from 'lucide-react';
+import { Upload, FileText, CheckCircle, Users, Award, Send, Download, Info } from 'lucide-react';
 
 const SubmissionsPage = () => {
     const [formData, setFormData] = useState({

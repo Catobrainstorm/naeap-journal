@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState, useEffect } from 'react';
-import { BookOpen, Plus, Edit3, Trash2, Upload, Eye, EyeOff, Calendar, Save, X, Check, AlertCircle, FileText, Megaphone } from 'lucide-react';
+import { BookOpen, Plus, Edit3, Trash2, Eye, EyeOff, Calendar, Save, X, Check, AlertCircle, FileText, Megaphone } from 'lucide-react';
 import { 
     collection, 
     addDoc, 

@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { BookOpen, Download, Eye, Calendar, Users } from 'lucide-react';
+import { BookOpen, Download, Eye, Calendar } from 'lucide-react';
 import { Journal } from '@/types';
 
 interface JournalCardProps {

@@ -38,7 +38,7 @@ const Footer = () => {
                 <div className="lg:col-span-1">
                 <div className="flex items-center mb-4">
                     <BookOpen className="w-8 h-8 text-indigo-400 mr-3" />
-                    <h3 className="text-2xl font-bold">NEAP</h3>
+                    <h3 className="text-2xl font-bold">NAEAP</h3>
                 </div>
                 <p className="text-gray-300 mb-6 leading-relaxed">
                     Advancing academic excellence through rigorous research and scholarly publication. 
@@ -117,7 +117,7 @@ const Footer = () => {
                     </div>
                     <div className="flex items-start text-gray-300">
                     <MapPin className="w-4 h-4 mr-3 mt-0.5 text-indigo-400 flex-shrink-0" />
-                    <span className="text-sm">123 Academic Ave, University City, UC 12345</span>
+                    <span className="text-sm"></span>
                     </div>
                 </div>
                 
@@ -162,7 +162,7 @@ const Footer = () => {
             <div className="border-t border-gray-800 py-6">
             <div className="flex flex-col md:flex-row justify-between items-center">
                 <div className="text-sm text-gray-400 mb-4 md:mb-0">
-                © {currentYear} NEAP Academic Journal. All rights reserved.
+                © {currentYear} NAEAP Academic Journal. All rights reserved.
                 </div>
                 <div className="flex items-center space-x-6 text-sm text-gray-400">
                 <Link href="#" className="hover:text-white transition-colors duration-200">
