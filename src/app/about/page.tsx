@@ -351,12 +351,6 @@ useEffect(() => {
                 expertise: ""
               },  
               {
-                name: "Professor Nath. M. Abraham",
-                title: "Consulting Editor",
-                affiliation: "University of Port Harcourt, Rivers State",
-                expertise: "Department of Educational Management"
-              },
-              {
                 name: "Professor Femi S. Akinwumi",
                 title: "Consulting Editor",
                 affiliation: "University of Ibadan ",
