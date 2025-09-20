@@ -297,125 +297,113 @@ useEffect(() => {
                 expertise: "Faculty of Education"
               },
               {
-                name: "Prof Ugochukwu Kysburn Agi",
-                title: "Members",
-                affiliation: "Ignatius Ajuru University of Education, Port Harcourt",
+                name: "Dr Emmanuel A. Isah",
+                title: "National Editor",
+                affiliation: "Faculty of Education, University of Ibadan, Nigeria",
+                expertise: "Department of Educational Management"
+              },
+              {
+                name: "Emeritus Professor Nicholas",
+                title: "Consulting Editor",
+                affiliation: "Faculty of Education, University of Benin, Benin-city, Edo State, Nigeria",
+                expertise: "Department of Educational Management"
+              },
+              {
+                name: " Professor G. O. Akpa",
+                title: "Consulting Editor",
+                affiliation: "University Of Jos, Plateau state",
                 expertise: ""
               },
               {
-                name: "Dr. Ezugoh, Theodora Chinelo",
-                title: "Members",
-                affiliation: "Federal College of Education (Technical), Asaba",
-                expertise: ""
-              },
-              {
-                name: "Dr. Amaonye, Chinenye Blessing",
-                title: "Members",
-                affiliation: "Nnamdi Azikiwe University",
-                expertise: ""
-              },
-              {
-                name: "Dr. Adeyemo, Deborah Adejumoke",
-                title: "Members",
-                affiliation: "Federal University, Oye-Ekiti, Ekiti State",
-                expertise: ""
-              },
-              {
-                name: "Dr Emmanuel Isah",
-                title: "Members",
-                affiliation: "National Editor NAEAP Journal and Ex-Officio",
-                expertise: ""
-              },  
-              {
-                name: "Rev. Sr. Chidumebi Ngozi Oguejofor, Ph.D.",
-                title: "Members",
-                affiliation: "Nnamdi Azikwe University",
-                expertise: ""
-              }, 
-              {
-                name: "Dr. Ovat Okpa",
-                title: "Members",
-                affiliation: "University of Calabar",
-                expertise: ""
-              },  
-              {
-                name: "Mr. Akpeghughu Mevrabor Kingsley",
-                title: "Secretary",
-                affiliation: "University of Port Harcourt",
-                expertise: ""
-              },    
-              {
-                name: "Mr. Akpeghughu Mevrabor Kingsley",
-                title: "Consulting Editors",
-                affiliation: "Faculty of Education University of Benin, Benin-City,Edo State Nigeria",
-                expertise: ""
-              },  
-              {
-                name: "Professor G. O. Akpa",
-                title: "Consulting Editors",
-                affiliation: "University of Jos, Plateau State",
-                expertise: ""
-              },
-              {
-                name: "Professor D. O. Durosaro",
-                title: "Consulting Editors",
+                name: "Professor D.o Durosaro",
+                title: "Consulting Editor",
                 affiliation: "University of Ilorin",
                 expertise: "Department of Educational Management"
-              }, 
+              },
               {
                 name: "Professor Hauwa Imam",
-                title: "Consulting Editors",
+                title: "consulting Editor",
                 affiliation: "University of Abuja",
                 expertise: "Department of Educational Management"
               },  
               {
                 name: "Professor J. B. Babalola",
-                title: "Consulting Editors",
+                title: "Consulting Editor",
                 affiliation: "University of Ibadan",
                 expertise: "Department of Educational Management"
-              },  
+              }, 
               {
                 name: "Professor U. U. Bassey",
-                title: "Consulting Editors",
+                title: "consulting Editor",
                 affiliation: "University of Calabar",
-                expertise: "Department of Educational Administration & Planning"
+                expertise: "Department of Educational Administration and Planning "
+              },  
+              {
+                name: "Professor N. Y. S. Ijaya",
+                title: "consulting Editor",
+                affiliation: "University of Ilorin",
+                expertise: "Department of Educational Management"
+              },    
+              {
+                name: "Professor Adejo Okwari",
+                title: "Consulting Editor",
+                affiliation: "Benue State University, Markudi, Nigeria",
+                expertise: ""
+              },  
+              {
+                name: "Professor Nath. M. Abraham",
+                title: "Consulting Editor",
+                affiliation: "University of Port Harcourt, Rivers State",
+                expertise: "Department of Educational Management"
+              },
+              {
+                name: "Professor Femi S. Akinwumi",
+                title: "Consulting Editor",
+                affiliation: "University of Ibadan ",
+                expertise: "Department of Educational Management"
+              }, 
+              {
+                name: "Professor M.O.N. Nwadiani",
+                title: "Consulting Editor",
+                affiliation: "University of Benin, Benin city",
+                expertise: "Department of Educational Management"
               },  
               {
                 name: "Professor Gospel G. Kpee",
                 title: "National President",
                 affiliation: "Faculty of Education, University of Port Harcourt, Rivers State,Nigeria",
                 expertise: "FNAEAP, aHi"
-              },   
+              },  
               {
                 name: "Dr. Sunday Dada",
                 title: "National Vice President",
                 affiliation: "Department of Educational ManagementUniversity of Abuja",
                 expertise: ""
-              } ,  
+              },  
               {
                 name: "Dr. Idowu Banjoko – FNAEAP",
                 title: "National Secretary",
                 affiliation: "Director, NLGE, Lagos State Nigeria",
                 expertise: ""
-              },    
+              },   
               {
-                name: "Dr. Felix Bua",
-                title: "National Assistant Secretary",
-                affiliation: "Department of Educational Foundations, Benue State University Makurdi",
+                name: "Dr. Felix Bua" ,
+                title: "National Assitant Secretary",
+                affiliation: "Department of Educational Foundations Benue State University, Markurdi",
                 expertise: ""
-              },  
+              } ,  
               {
                 name: "Dr. Clement Igbaji",
                 title: "National PRO",
-                affiliation: "Department of Educational foundations Federal University, Kashere, Gombe State Nigeria",
-                expertise: ""
-              }, 
+                affiliation: "Federal University, Kashere, Gombe state, Nigeria",
+                expertise: "Department of Educational Foundations"
+              },    
               {
                 name: "Professor Lucy Udida",
                 title: "National Treasurer",
                 affiliation: "University of Calabar Cross River State Nigeria",
                 expertise: "Department of Educational Management"
-              },   
+              },  
               {
                 name: "Dr. Nakazalle Nura Usman",
                 title: "National Financial Secretary",
@@ -427,13 +415,13 @@ useEffect(() => {
                 title: "National Auditor",
                 affiliation: "Alvan Ikoku Federal College of Education Owerri Imo State Nigeria",
                 expertise: ""
-              },    
+              },   
               {
                 name: "Professor Chinedu Aguba",
                 title: "Ex-Officio I",
                 affiliation: "Enugu State University of Science and Technology (ESUT) Enugu",
                 expertise: ""
-              },    
+              }, 
               {
                 name: "Dr. Saheed Oyeniran",
                 title: "Ex-Officio II",
@@ -445,7 +433,7 @@ useEffect(() => {
                 title: "Immediate Past President (IPP)",
                 affiliation: "University of Abuja",
                 expertise: "Department of Educational Management"
-              }    
+              }  
             ].map((member, index) => (
               <motion.div
                 key={member.name}
